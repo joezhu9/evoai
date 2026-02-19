@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EvolveAI - 个人成长教练",
+  "description": "基于 TCA 教练理论的个人成长进化系统，通过 AI 动态生成并持续修正执行策略。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
